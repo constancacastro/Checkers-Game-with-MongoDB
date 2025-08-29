@@ -1,8 +1,10 @@
-# Checkers-Game-with-MongoDB
-Checkers Game developed with a group mate of mine, during the curricular course 'TDS' at Instituto Superior de Engenharia de Lisboa (ISEL);
+"# 32d-2425i-32d-grupo08" 
 
-Used Kotlin and MongoDB to get to the successful results
+- Guilherme Mouzinho - 50480
+- Constança Castro - 50523
 
-Students:
-Constança Castro
-Guilherme Mouzinho
+## Work runnig directives:
+
+- Compile: **kotlinc main** (must be inside project directory where App.kt resides)
+- Running: **kotlin App** (each console)
+
